@@ -2,7 +2,7 @@
 
 # Herwannan Vapaaohjelmoijat Ry
 
-Olemme Herwannan Vapaaohjelmoijat Ry (Hewo), kuten nimestä voi päätellä yhdistyksen *"koti"* on Tampereen Hervannassa ja yhdistyksemme *toimiala* on ohjelmointi ja IT-palvelut. Yhdistys on tarkoitettu ohjelmoinnin, ohjelmien ylläpidon, yms. opettamiseen ja jäsenistömme on pääasiassa Tampereen Yliopiston opiskelijoita, ja pyrimme opiskelijajärjestöksi Tampereella. Olemme myös .fi-verkkotunnusvälittäjä. Yhdistys on avoin pääasiassa kaikille, mutta pääasiassa Tampereen Yliopiston opiskelijoille. Jäsenmaksu on huimat 0€/vuosi ja pyrimme pitämään sen niin.
+Olemme Herwannan Vapaaohjelmoijat Ry (Hewo), kuten nimestä voi päätellä yhdistyksen *"koti"* on Tampereen Hervannassa ja yhdistyksemme *toimiala* on ohjelmointi ja IT-palvelut. Yhdistys on tarkoitettu ohjelmoinnin, ohjelmien ylläpidon, yms. opettamiseen ja jäsenistömme on pääasiassa Tampereen Yliopiston opiskelijoita, ja pyrimme opiskelijajärjestöksi Tampereella. Olemme myös .fi-verkkotunnusvälittäjä. Yhdistys on avoin kaikille, mutta pääasiassa Tampereen Yliopiston opiskelijoille. Jäsenmaksu on huimat 0€/vuosi ja pyrimme pitämään sen niin.
 
 ## Agenda // Miksi, kuka, kenelle ja millä hinnalla?
 
