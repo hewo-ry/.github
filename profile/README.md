@@ -8,7 +8,7 @@ Olemme Herwannan Vapaaohjelmoijat Ry (Hewo), kuten nimestä voi päätellä yhdi
 
 Yhdistyksemme päätarkoitus on avustaa muita yhdistyksiä, opiskelijajärjestöjä ja yksityishenkilöitä päivittäisissä IT-tarpeissa hinnalla, jolla kustannetaan vain ylläpitokulut. Palkkiona otamme vastaan hyvän mielen, mahdollisuuden tulevaisuuden yhteistyöhön, toteutuksessa oppimisen ja toteutuksen mahdollisen monistettavuuden (mm. muille järjestöille, jos kyseessä ei ole yksityinen ohjelmisto tms.). Edellämainituista syistä voi myös olettaa, että palvelulta ei saa aina 24/7 tukea tai välittömän nopeita toimia. Tietoturvaa koskevissa tilanteissa pyrimme toki tarvittaessa toimimaan nopeasti.
 
-Asiakkaissamme / yhteistyökumppaneissamme priorisoimme nykyisiä kumppanuuksia ja yhdistyksiä (myös opiskelijayhdistyksiä, esim kiltoja). Yritysasiakkaat voivat ottaa yhteyttä mm. Vuosoft Oy:hyn tai muihin vastaavia palveluita toteuttaviin yrityksiin.
+Asiakkaissamme / yhteistyökumppaneissamme priorisoimme nykyisiä kumppanuuksia ja yhdistyksiä (myös opiskelijayhdistyksiä, esim. kiltoja). Yritysasiakkaat voivat ottaa yhteyttä mm. Vuosoft Oy:hyn tai muihin vastaavia palveluita toteuttaviin yrityksiin.
 
 Esimerkiksi, jos järjestö X tarvitsee nettisivut Wordpressillä, me hoidamme heille palvelimen (ylläpitokustannus 3-5€/kk), Wordpressin, keskitetyn käyttäjähallinnan (0-2€/kk) ja verkkotunnuksen (9€/vuosi). Tällöin velottaisimme järjestöltä X noin 3-7€/kk + 9€/vuosi.
 
